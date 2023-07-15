@@ -264,10 +264,13 @@ header .header-section .icons i:hover {
 }
 
 .home .home-slider .slide .image {
-   flex:1 1 45rem;
+   flex:1 0 53rem;
+   display: flex;
+  
 }
 
 .home .home-slider .slide .image img {
+   
     width: 100%;
 }
 
